@@ -1,5 +1,8 @@
 # Java_programs
 
+##Discription
+This repository contains basic programs in Java.
+
 - Calucatethesi.java
 - Palendrome.java
 - strongnumber.java
